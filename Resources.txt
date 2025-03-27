@@ -1,0 +1,40 @@
+Free Course Book + Code Resources + Asking Questions + Getting Help
+Course Companion Book
+
+This course comes with a companion, online book version! You'll notice that the course book contains all of the video materials but in text form (plus a few extra links and resources to learn more).
+
+See the book: https://www.learnpytorch.io/
+
+
+
+Course Code + Slides + Resources
+
+You can find all of the course code, projects, and slides at the below GitHub repository. Make sure to star the repo as it will be helpful as you go through the course. You'll be able to watch the videos and then use the GitHub resources as references.
+
+Get the code: https://github.com/mrdbourke/pytorch-deep-learning
+
+
+
+Questions and answers (Q&A)
+
+If you have a question about any of the code or videos in the course, please feel free to post them in the course Discord.
+
+Otherwise, you can search/post on the ZTM PyTorch course GitHub Discussions page: https://github.com/mrdbourke/pytorch-deep-learning/discussions
+
+You’ll find a bunch of questions/information already answered there!
+
+You can see an example of how to ask a question here: https://github.com/mrdbourke/pytorch-deep-learning/discussions/117
+
+Questions on GitHub Discussions are far more likely to get answered than questions on Udemy.
+
+Why?
+
+Because we believe it’s better to have all the code + materials + Q&A in one place. That way updates can be posted if needed.
+
+Plus, there’s plenty of people on GitHub who are willing to help out! (if you see a question you think you can answer, feel free to help someone)
+
+
+
+Issues with the course code
+
+If you find any issues with the course code, please post an issue on the course GitHub issues: https://github.com/mrdbourke/pytorch-deep-learning/issues
